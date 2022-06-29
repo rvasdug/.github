@@ -1,1 +1,2 @@
-# .github
+# RVA Software Development User Group
+
